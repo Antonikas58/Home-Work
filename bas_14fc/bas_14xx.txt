@@ -1,0 +1,3 @@
+Material name: adsgf Price: 322.000000 Quantity: 234234.000000 Cost: 75423348.000000
+Material name: dnbdrndr Price: 2345.000000 Quantity: 235.000000 Cost: 551075.000000
+Material name: dsfbgdrbdrb Price: 235.000000 Quantity: 235555.000000 Cost: 55355425.000000

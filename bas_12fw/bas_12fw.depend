@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1608700488 source:d:\tc\home work\bas_12fw\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1608659124 d:\tc\home work\bas_12fw\header.h
+
